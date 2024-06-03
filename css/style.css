@@ -121,6 +121,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 .fullPage .article-meta,
+.fullPage .article-header,
 .fullPage .article-footer,
 .fullPage #sidebar{
   display: none;
